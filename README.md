@@ -1,23 +1,23 @@
-👋 Hi, I'm Anupam Biswas!
+# 👋 Hi, I'm Anupam Biswas!
 
+🎓 MSc Cyber Security Student at the **University of Surrey**
+🧪 **QA Lead | Quality Analyst | Salesforce QA Tester | API & Integration Testing**
 
-🚀 Full Stack Developer | QA Analyst | QA Lead | Salesforce QA Tester | Manual Testing Expert | Integration Testing Expert | Selenium & Java Learner | TOSCA Learner | Tech Enthusiast
+🔹 Nearly **6 years of professional experience** in software quality assurance and testing
 
+🔹 Experienced in **Salesforce testing, API testing, integration testing, database testing, data migration, and end-to-end testing**
 
-🔹 4+ years of experience in Manual Testing (Salesforce, API, Integration)
+🔹 Skilled in tools and technologies including **Postman, Jira, Salesforce, MuleSoft, Qualtrics, OneTrust, and CTI integrations**
 
-🔹 Skilled in React.js, JavaScript, Node.js, Express, MongoDB
+🔹 Led and mentored QA team members, supported delivery across multiple initiatives, and collaborated with cross-functional teams
 
-🔹 Passionate about building scalable web applications & optimizing UI/UX
+🔹 Built an **AI-assisted API testing tool** that generates test scenarios from Postman collections, executes API calls, and produces LLM-assisted test reports
 
-🔹 Currently upskilling in Automation Testing (Selenium, Java, TOSCA) & Azure Administration
+🔹 Currently developing skills in **Cybersecurity, Application Security, Cloud Security, and Security Testing**
 
-🔹 Exploring Generative AI & Full Stack Development
+🔹 Interested in **Generative AI, vulnerability assessment, secure software development, and cybersecurity automation**
 
+💡 Always learning, building, and exploring ways to improve software quality and security.
 
-
-💡 Always eager to learn, build, and innovate!
-
-
-
-📫 Let's connect: https://www.linkedin.com/in/anupam-biswas-198b39169/
+📫 Let's connect:
+🔗 https://www.linkedin.com/in/anupam-biswas-198b39169/
